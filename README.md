@@ -30,3 +30,12 @@ Intern | June 2022 - Aug 2022
 - Leveraged state management and RecoilStates to send data from one webpage to another and update UI when the user entered data in forms/textboxes.
 - Documented feature requirements, conducted user interviews, prototyped and scoped out the team project.
 
+### Education
+#### College of Electrical Engineering and Computer Science Bachelor of Science, Computer Science
+Howard University | 2020 -  2024
+GPA: 3.60
+
+#### APPLIED DATA SCIENCE MASTER OF SCIENCE, APPLIED DATA SCIENCE
+Howard University | 2024 -  Expected 2025
+GPA: 3.80
+
