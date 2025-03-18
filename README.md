@@ -4,7 +4,7 @@
 Eager to apply my knowledge to an internship experience in order to further develop my technical, analytical, and leadership skills, working in both collaborative and self-directed environements.
 
 #### Skills
-Python | Java | HTML | R | R Studio | Tableau |SQL | Kusto Query Language
+Python | Java | HTML | R | R Studio | Tableau | SQL | Kusto Query Language
 CSS | TypeScript | ReactJS | Visual Studio Code | Github | Object-Oriented Programming |
 Eclipse IDE | Android Studio IDE | Adobe Photoshop
 
