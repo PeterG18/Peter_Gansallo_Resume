@@ -39,3 +39,19 @@ GPA: 3.60
 Howard University | 2024 -  Expected 2025
 GPA: 3.80
 
+### Extracurricular Activities
+#### Howard University – Soccer Team
+ | August 2020 - Present
+Howard University’s Men Soccer team which competes at the NCAA Division 1 level and in the north eastern conference.
+
+#### African Student Association
+| Sep 2020
+Assists in providing opportunities for African students to showcase, and bring awareness to the African culture.
+
+#### Black Engineering Society
+| Sep 2020
+Connect with other qualified minorities in the fields of computer science, engineering, mathematics, and sciences.
+
+#### The Grassroot Project
+| Jan 2022
+Group of college athletes currently being trained to assist with health education and youth empowerment programs for middle school students in DC.
